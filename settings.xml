@@ -17,5 +17,7 @@
   <mirrors/>
   <proxies/>
   <profiles/>
-  <activeProfiles/>
+  <activeProfiles>
+    <activeProfile>sources-docs</activeProfile>
+  </activeProfiles>
 </settings>
